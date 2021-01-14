@@ -18,5 +18,5 @@
 // The Big O time for question 1 is Constant Time O(1)
 // Assuming everyone is in range and can hear you, it doesn't matter how many people are in the room, all you have to do is yell once thing and if someone has the dog type they will respond. 
 
-// The Big O time for question 2 is Logarithmic Time O(n)
-// There is only one input and you are only doing one operation on it. Just like summing an array.
+// The Big O time for question 2 is Linear Time O(n)
+// There is only one input and you are only doing one operation on it. Just like summing an array. But the amount of time depends on the amount of people (input)
